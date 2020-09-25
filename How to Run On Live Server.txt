@@ -1,0 +1,15 @@
+This is how to run your html project on live servers via Visual Code
+
+Step 1:
+On Visual Code, go to the Extensions tab.
+
+Step 2:
+Type Live Servers in the search bar.
+
+Step 3:
+Download it and use it.
+
+Step 4:
+In your html project (presumably, index.html), right click and click on "Open with Live Server"
+
+Done.
